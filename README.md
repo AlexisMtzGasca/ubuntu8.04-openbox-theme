@@ -7,10 +7,11 @@
 ### Details:
 
 - [x] OS: Ubuntu 20.04 LTS
-- [x] WM: Openbox
-- [x] Panel: Polybar
-- [x] Compositor: Ibhagwan's Picom Fork
-- [x] Terminal: ST
+- [x] WM: [Openbox](https://github.com/danakj/openbox)
+- [x] Panel: [Polybar](https://github.com/polybar/polybar)
+- [x] Compositor: [Ibhagwan's Picom Fork](https://github.com/ibhagwan/picom)
+- [x] Terminal: [ST](https://st.suckless.org/)
+- [x] Openbox Theme: [Human-like theme](https://www.box-look.org/p/1017605/)
 
 ![alt text](https://github.com/AlexisMtzGasca/ubuntu8.04-openbox-theme/blob/main/Screenshot-13-10-2020-20:02:24.png?raw=true)
 
