@@ -1,9 +1,6 @@
-# Special
 background='#311200'
 foreground='#dbbb97'
 cursor='#dbbb97'
-
-# Colors
 color0='#311200'
 color1='#9A5222'
 color2='#A65A27'
