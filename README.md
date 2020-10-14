@@ -4,14 +4,13 @@
 
 *I was 13 years old the first time I used Linux, now I'm 24 years old. I started with Ubuntu 8.04 because my computer in that time didn't support 10.04. The purpose of this theme is to remember the old Ubuntu.*
 
+### Details:
 
-> Details:
-
-> OS: Ubuntu 20.04 LTS
-> WM: Openbox
-> Panel: Polybar
-> Compositor: Ibhagwan's Picom Fork
-> Terminal: ST
+OS: Ubuntu 20.04 LTS
+WM: Openbox
+Panel: Polybar
+Compositor: Ibhagwan's Picom Fork
+Terminal: ST
 
 ![alt text](https://github.com/AlexisMtzGasca/ubuntu8.04-openbox-theme/blob/main/Screenshot-13-10-2020-20:02:24.png?raw=true)
 
