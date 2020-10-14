@@ -1,7 +1,7 @@
 #!/bin/sh
 # POLYWINS
 
-. "${HOME}/colors.sh"
+. "$HOME/colors.sh"
 
 # SETTINGS {{{ ---
 
