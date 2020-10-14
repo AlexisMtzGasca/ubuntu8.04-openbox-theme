@@ -6,11 +6,11 @@
 
 ### Details:
 
-[x] OS: Ubuntu 20.04 LTS
-[x] WM: Openbox
-[x] Panel: Polybar
-[x] Compositor: Ibhagwan's Picom Fork
-[x] Terminal: ST
+- [x] OS: Ubuntu 20.04 LTS
+- [x] WM: Openbox
+- [x] Panel: Polybar
+- [x] Compositor: Ibhagwan's Picom Fork
+- [x] Terminal: ST
 
 ![alt text](https://github.com/AlexisMtzGasca/ubuntu8.04-openbox-theme/blob/main/Screenshot-13-10-2020-20:02:24.png?raw=true)
 
